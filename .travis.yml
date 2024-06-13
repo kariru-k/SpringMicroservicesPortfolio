@@ -1,4 +1,4 @@
 language: java
 
 jdk: 
-- openjdk: 22
+- openjdk22
