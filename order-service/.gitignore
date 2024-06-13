@@ -31,6 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/mysql/
 /mysql/#ib_16384_0.dblwr
 /mysql/#ib_16384_1.dblwr
 /mysql/#innodb_redo/#ib_redo0
